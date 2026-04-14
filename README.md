@@ -46,18 +46,27 @@ ________________________________________
 📈 Key Insights Generated
 
 •	📌 Associate KLM is the top performer in lead generation
+
 •	📌 Efficiency varies significantly across employees
+
 •	📌 Declining trend observed in recent months
+
 •	📌 Some employees show high effort but low output (inefficiency)
+
 ________________________________________
 
 📊 Visualizations Used
 
 •	📌 KPI Cards (Performance Summary)
+
 •	📈 Line Chart (Trend Analysis)
+
 •	📊 Bar Chart (Employee Comparison)
+
 •	🔄 Combo Chart (Time vs Leads)
+
 •	📋 Table with Conditional Formatting
+
 ________________________________________
 
 🧠 Data Modeling & DAX
